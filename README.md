@@ -20,6 +20,8 @@
 
 [Blog Marco Altini](https://medium.com/@altini_marco)
 
+[Subsctack Marco Altini](https://marcoaltini.substack.com/)
+
 ## Исследования
 
 [An Overview of Heart Rate Variability Metrics and Norms](https://pmc.ncbi.nlm.nih.gov/articles/PMC5624990/)
