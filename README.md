@@ -16,6 +16,10 @@
 
 [The Ultimate Guide to Heart Rate Variability (HRV): Part 4](https://medium.com/@marco_alt/the-ultimate-guide-to-heart-rate-variability-hrv-part-4-909b52f71131)
 
+## Блоги
+
+[Blog Marco Altini](https://medium.com/@altini_marco)
+
 ## Исследования
 
 [An Overview of Heart Rate Variability Metrics and Norms](https://pmc.ncbi.nlm.nih.gov/articles/PMC5624990/)
